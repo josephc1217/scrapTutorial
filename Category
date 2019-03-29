@@ -1,0 +1,226 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<meta http-equiv="imagetoolbar" content="false" />
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="程序源码/设计语言,电脑与网络网站分类目录大全，收录与程序源码/设计语言,电脑与网络相关的所有精品网站！欢迎您提交与程序源码/设计语言,电脑与网络相关的网站，这是您彰显实力的好机会，赶快行动吧！丰富详实的程序源码/设计语言,电脑与网络网站，尽在DMOZ中文网站分类目录！" />
+<meta name="keywords" content="程序源码/设计语言,电脑与网络,网站目录,分类目录,网站分类目录,网址导航,网址大全,网页目录,行业分类" />
+<meta name="author" content="点燃一支烟" />
+<title>程序源码/设计语言-电脑与网络-目录分类-DMOZ中文网站分类目录</title>
+
+<link rel="alternate" type="application/rss+xml" href="http://www.dmozdir.org/Rss/?SmallPath=111" title="订阅 程序源码/设计语言-电脑与网络-目录分类-DMOZ中文网站分类目录 分类最近更新(rss2)" />
+<link rel="shortcut icon" href="http://www.dmozdir.org/favicon.ico" />
+<link href="http://www.dmozdir.org/skin/blue/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.dmozdir.org/Config/js/js.js"></script>
+<script type="text/javascript" src="http://www.dmozdir.org/Config/js/ClickStat.js"></script>
+</head>
+<body onLoad="initJS()">
+<div id="container">
+	<!--s=topbar-->
+	<div id="topbar">
+		<div class="toptext">
+			<strong>DMOZ中文网站分类目录-免费收录各类优秀网站的中文网站目录.</strong>
+			<ul>
+				<li class="first"><a href="javascript:;" target="_self" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.dmozdir.org/');return false;">设为首页</a></li>
+				<li><a href="javascript:;" onclick="copyToClipBoard();">推荐本站给好友</a></li>
+			</ul>
+		</div>
+	</div>
+	<!--e=end-->
+
+	<!--s=maincontainer-->
+	<div id="main">
+		<!--s=header-->
+		<div class="header">
+			<h1><a href="http://www.dmozdir.org/" title="DMOZ中文网站分类目录-免费收录各类优秀网站的中文网站目录.由人工编辑,并提供网站分类目录检索及地区分类目录检索,是站长免费推广网站的有力平台!">DMOZ中文网站分类目录-免费收录各类优秀网站的中文网站目录.</a></h1>
+			<ul class="header-nav">
+			
+				<li><a href="http://www.dmozdir.org/User/UserReg.asp">免费注册</a></li>
+				<li><a href="http://www.dmozdir.org/User/UserLogin.asp">登录管理</a></li>
+				<li><a href="http://www.dmozdir.org/User/UserPublish.asp?Action=Add" target="_blank">提交网站</a></li>
+				<li class="userinfo">您好，欢迎来DMOZ中文网站分类目录！</li>
+			
+			</ul>
+			<!--s=topmenu-->
+			<div class="menu">
+				<ul class="topmenu">
+					<li class="thome"><a href="http://www.dmozdir.org/"><span>DmozDir首页</span></a></li>
+					<li class="tadd"><a href="http://www.dmozdir.org/User/UserPublish.asp?Action=Add"><img src="http://www.dmozdir.org/skin/blue/Images/hot_b.gif" /><span>提交网站</span></a></li>
+					<li class="tline">|</li>
+					<li class="tnew"><a href="http://www.dmozdir.org/New.asp"><span>最新收录</span></a></li>
+					<li class="tline">|</li>
+					<li class="tgoin"><a href="http://www.dmozdir.org/Goin.asp"><span>入站排行榜</span></a></li>
+					<li class="tline">|</li>
+					<li class="tnews"><a href="http://www.dmozdir.org/News/"><span>建站资讯</span></a></li>
+					<li class="tline">|</li>
+					<li class="tnews"><a href="http://www.dmozdir.org/About/"><span>了解本站</span></a></li>
+				</ul>
+			</div>
+			<!--e=topmenu-->
+			<h3 id="bigClassList" class="bigClassList" onmouseover="this.className='bigClassListOver'" onmouseout="this.className='bigClassList'">
+				<a href="javascript://">目录分类</a>
+				<ul class="ulList">
+					<li><a href="http://www.dmozdir.org/Category/?Path=1">娱乐休闲</a></li><li><a href="http://www.dmozdir.org/Category/?Path=3">工商与经济</a></li><li><a href="http://www.dmozdir.org/Category/?Path=4">电脑与网络</a></li><li><a href="http://www.dmozdir.org/Category/?Path=5">公司与企业</a></li><li><a href="http://www.dmozdir.org/Category/?Path=6">教育与培训</a></li><li><a href="http://www.dmozdir.org/Category/?Path=7">文学</a></li><li><a href="http://www.dmozdir.org/Category/?Path=8">艺术</a></li><li><a href="http://www.dmozdir.org/Category/?Path=9">体育与健身</a></li><li><a href="http://www.dmozdir.org/Category/?Path=10">新闻与媒体</a></li><li><a href="http://www.dmozdir.org/Category/?Path=11">卫生与健康</a></li><li><a href="http://www.dmozdir.org/Category/?Path=12">科学/文化</a></li><li><a href="http://www.dmozdir.org/Category/?Path=13">生活与服务</a></li><li><a href="http://www.dmozdir.org/Category/?Path=14">旅游与交通</a></li><li><a href="http://www.dmozdir.org/Category/?Path=16">政治/法律/军事</a></li><li><a href="http://www.dmozdir.org/Category/?Path=17">社会科学</a></li>
+				</ul>
+			</h3>
+			<h3 id="ProvinceList" class="bigClassList" onMouseOver="this.className='bigClassListOver'" onMouseOut="this.className='bigClassList'">
+				<a href="javascript://">地区分类</a>
+				<ul class="ulList">
+					<li><a href="http://www.dmozdir.org/Area/?ProvinceID=1000">北京</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1001">上海</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1002">天津</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1003">重庆</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1004">浙江省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1005">广东省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1006">江苏省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1007">河北省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1008">山西省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1009">四川省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1010">河南省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1011">辽宁省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1012">吉林省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1013">黑龙江省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1014">山东省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1015">安徽省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1016">福建省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1017">湖北省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1018">湖南省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1019">海南省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1020">江西省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1021">贵州省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1022">云南省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1023">陕西省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1024">甘肃省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1025">广西区</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1026">宁夏区</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1027">青海省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1028">新疆区</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1029">西藏区</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1030">内蒙古区</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1031">香港</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1032">澳门</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1033">台湾</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1034">国外</a></li>
+				</ul>
+			</h3>
+		</div>
+		<!--e=header-->
+
+		<div class="tsch">
+			<span class="tschL"></span>
+			<span class="tschR"></span>
+			<div class="tschBox">
+				<form name="TopSearch" action="http://www.dmozdir.org/" method="get">
+					<input name="Keyword" type="text" class="infile"  title="请输入关键词|Please Input The Keywords" value="" />
+					<span class="stype">
+						<span class="stypeinner">
+							<select name="SearchType" class="type">
+								<option value="Title">网站名称</option>
+								<option value="Content">网站描述</option>
+								<option value="Domain">网站域名</option>
+								<option value="Tag">TAG关键词</option>
+							</select>
+						</span>
+					</span>
+					<button type="submit" class="btn" title="搜索|Search" />搜 索</button>
+					<em class="text"><a href="http://www.dmozdir.org/User/UserHelp.asp">搜索帮助?</a></em>
+				</form>
+			</div>
+			<ul class="tschKey">
+<a href="http://www.chuchenhb.com/xiaoxingchuchenqi.html" target="_blank">小型除尘器</a> <a href="http://www.chuchenhb.com/maichongchuchenqi.html" target="_blank">脉冲除尘器</a> <a href="http://www.chuchenhb.com/budaichuchenqi.html" target="_blank">布袋除尘器</a> <a href="http://www.chuchenhb.com/chuchengujia.html" target="_blank">除尘器骨架</a> <a href="http://www.chuchenhb.com/chuchenbudai.html" target="_blank">除尘器布袋</a> <a href="http://www.chuchenhb.com/diancimaichongfa.html" target="_blank">电磁脉冲阀</a> <a href="http://www.chuchenhb.com/danjichuchenqi.html" target="_blank">单机除尘器</a> <a href="http://www.chuchenhb.com/xuanfengchuchenqi.html" target="_blank">旋风除尘器</a> <a href="http://www.bthbchuchen.com" target="_blank">脉冲布袋除尘器</a>
+			</ul>
+		</div>
+		<div class="site-notice"><a href="http://www.dmozdir.org/tjshoulu.html" target="_blank"><font color="#ff0000"><b>DMOZ目录快速登录入口</b></font></a>-免费收录各类优秀网站的中文网站目录.由人工编辑,并提供网站分类目录检索及地区分类目录检索,是站长免费推广网站的有力平台!</div>
+		<div class="pageNaviGation">
+			当前位置：<a href="http://www.dmozdir.org/">DMOZ中文网站分类目录</a> &gt;
+			<a href="?Path=4">电脑与网络</a> &gt; <strong><a href="?SmallPath=111">程序源码/设计语言</a></strong>(172)  <a href="../Rss/?SmallPath=111" target="_blank">
+			<img src="http://www.dmozdir.org/skin/blue/Images/feed.png" alt="订阅最近更新Feed" border="0" /></a>
+
+			<div class="showUserInfo"><strong>DMOZ中文网站分类目录</strong> - 网站免费登录, 免费推广</div>
+		</div>
+
+		<!--s=left-->
+		<div id="mainWrapper">
+			<div id="mainInner">
+
+				<div class="conBox">
+					<h3>电脑与网络 &gt; 程序源码/设计语言</h3>
+					
+					<ul class="tab-sorting">
+						<li class="first">排序方式:</li>
+						<li class="check"><a href="?SmallPath=111&O=Goin">入站流量</a></li>
+						<li><a href="?SmallPath=111&O=GoOut">出站流量</a></li>
+						<li><a href="?SmallPath=111&O=Digg">人气指数</a></li>
+                                                <li><a href="?SmallPath=111&O=Title">标题排序</a></li>
+					</ul>
+					
+					<ul class="websort">
+						<li><a href="?SmallPath=107" title="机构组织收录 66 个网站">机构组织</a><sup>66</sup></li><li><a href="?SmallPath=109" title="硬件收录 106 个网站">硬件</a><sup>106</sup></li><li><a href="?SmallPath=110" title="电子商务收录 775 个网站">电子商务</a><sup>775</sup></li><li class="check"><a href="?SmallPath=111" title="程序源码/设计语言收录 172 个网站">程序源码/设计语言</a><sup>172</sup></li><li><a href="?SmallPath=112" title="游戏收录 72 个网站">游戏</a><sup>72</sup></li><li><a href="?SmallPath=115" title="软件收录 246 个网站">软件</a><sup>246</sup></li><li><a href="?SmallPath=116" title="网络与通讯收录 113 个网站">网络与通讯</a><sup>113</sup></li><li><a href="?SmallPath=117" title="免费下载收录 116 个网站">免费下载</a><sup>116</sup></li><li><a href="?SmallPath=118" title="会议与商展活动收录 4 个网站">会议与商展活动</a><sup>4</sup></li><li><a href="?SmallPath=119" title="报刊/杂志/媒体收录 7 个网站">报刊/杂志/媒体</a><sup>7</sup></li><li><a href="?SmallPath=120" title="网页设计/域名空间收录 526 个网站">网页设计/域名空间</a><sup>526</sup></li><li><a href="?SmallPath=121" title="门户网站收录 229 个网站">门户网站</a><sup>229</sup></li><li><a href="?SmallPath=122" title="多媒体收录 24 个网站">多媒体</a><sup>24</sup></li><li><a href="?SmallPath=123" title="网址导航收录 174 个网站">网址导航</a><sup>174</sup></li><li><a href="?SmallPath=124" title="搜索引擎收录 188 个网站">搜索引擎</a><sup>188</sup></li><li><a href="?SmallPath=125" title="网络安全收录 39 个网站">网络安全</a><sup>39</sup></li><li><a href="?SmallPath=126" title="电脑门诊收录 39 个网站">电脑门诊</a><sup>39</sup></li><li><a href="?SmallPath=127" title="IT知识普及收录 79 个网站">IT知识普及</a><sup>79</sup></li><li><a href="?SmallPath=128" title="闪客FLASH收录 53 个网站">闪客FLASH</a><sup>53</sup></li><li><a href="?SmallPath=130" title="IT人物收录 17 个网站">IT人物</a><sup>17</sup></li><li><a href="?SmallPath=132" title="手机信息收录 43 个网站">手机信息</a><sup>43</sup></li><li><a href="?SmallPath=133" title="IT企业收录 200 个网站">IT企业</a><sup>200</sup></li><li><a href="?SmallPath=567" title="综合/其他收录 185 个网站">综合/其他</a><sup>185</sup></li><li><a href="?SmallPath=575" title="个人博客收录 323 个网站">个人博客</a><sup>323</sup></li>
+					</ul>
+					
+					<h4 class="applySite"><span><em title="向该目录提交网站"></em><a href="../User/UserPublish.asp?Action=Add&BigPath=4&SmallPath=111" class="red">向该目录提交网站</a></span></h4>
+					<ul class="listitem"><li><h4 title="青岛易网科技有限公司"><a href="http://www.dmozdir.org/SiteInformation/?www.qdewup.cn-----11068-----.shtml" target="_blank">青岛易网科技有限公司</a></h4><p>青岛易网科技有限公司是一家研究、推广和发展新技术，致力于企业信息化服务的专业信息科技公司,是全国基于互联网络提供全面电子商务、网络通讯咨询与解决方案的专业IT公司之一。</p><address>www.qdewup.cn</address></li><li><h4 title="北京首矽致芯科技有限公司"><a href="http://www.dmozdir.org/SiteInformation/?www.cy8c37.com-----31345-----.shtml" target="_blank">北京首矽致芯科技有限公司</a></h4><p>致芯科技为国内外电子企业找回丢失的单片机资料或学习国外单片机企业先进的设计思路提供技术支持，从事芯片解密、PCB抄板、电子产品逆向</p><address>www.cy8c37.com</address></li><li><h4 title="疯狂的IT人"><a href="http://www.dmozdir.org/SiteInformation/?www.crazyiter.com-----28847-----.shtml" target="_blank">疯狂的IT人</a></h4><p>疯狂的IT人(CrazyITer.COM),为IT学生、IT初从业者、学校IT教师、IT菜鸟、IT创业者等,建立一个学习交流的平台。</p><address>www.crazyiter.com</address></li><li><h4 title="威客价格网"><a href="http://www.dmozdir.org/SiteInformation/?www.sinje.cn-----14052-----.shtml" target="_blank">威客价格网</a></h4><p>钥匙开启智慧，时间换取财富。在家赚外快，不用东奔西跑，是国内威客最专业的免费价格查询网站。</p><address>www.sinje.cn</address></li><li><h4 title="烟雨兰亭社区"><a href="http://www.dmozdir.org/SiteInformation/?www.yanyulanting.net-----33314-----.shtml" target="_blank">烟雨兰亭社区</a></h4><p>烟雨兰亭社区是一个刚起步的中国IT技术论坛，其涵盖了智能手机应用，编程语言开发，web程序开发，数据库技术，电脑操作系统，以及网站建设，seo优化，网站推广，平面设计等信息，为朋友们之间学习提供平台！</p><address>www.yanyulanting.net</address></li><li><h4 title="编程十万个为什么"><a href="http://www.dmozdir.org/SiteInformation/?www.bcwhy.com-----19354-----.shtml" target="_blank">编程十万个为什么</a></h4><p>bcwhy是长沙民政学院软件学院首个专为大学生和编程爱好者打造的编程交流论坛，这里为您提供专业的编程视频教程，这里是新手学习编程的殿堂，也是一个从菜鸟成为高手起飞的地方.</p><address>www.bcwhy.com</address></li><li><h4 title="房产中介网站模板,房地产网站建设,房产中介网站源码,易房"><a href="http://www.dmozdir.org/SiteInformation/?www.ehouse999.com-----43568-----.shtml" target="_blank">房产中介网站模板,房地产网站建设,房产中介网站源码,易房</a></h4><p>易房（E-house）房地产中介网站系统-是针对房地产行业设计的房产中介网站模板,房地产中介网站源码,通过这套房地产中介网站源码可以快速地制作好一个房地产中介网站，是房产中介网站建设最佳方案</p><address>www.ehouse999.com</address></li><li><h4 title="奥宇斯汀工作室"><a href="http://www.dmozdir.org/SiteInformation/?www.oysting.com-----38105-----.shtml" target="_blank">奥宇斯汀工作室</a></h4><p>oysting 是国内新兴的IT技术站。我们竭力为您提供最新技术热点,解答各类开发疑问,编写详尽的开发教程,提供开发源码实例、常用开发软件以及音效素材供您下载</p><address>www.oysting.com</address></li><li><h4 title="亿柿网"><a href="http://www.dmozdir.org/SiteInformation/?www.itsrcs.com-----30797-----.shtml" target="_blank">亿柿网</a></h4><p>打造最舒适的编程技术资源站</p><address>www.itsrcs.com</address></li><li><h4 title="稀有资源网"><a href="http://www.dmozdir.org/SiteInformation/?www.xyzybbs.com-----18651-----.shtml" target="_blank">稀有资源网</a></h4><p>提供专业的论文设计免费下载，以及各种稀有软件工具、素材教程、考试题库、技术文献、珍奇宝贝等珍稀资源，您在茫茫网络中百寻不到的奇珍异宝，也许就在稀有资源网等着您……稀有资源网，有你想要的！</p><address>www.xyzybbs.com</address></li></ul>
+<form class="pagecount" onsubmit="location.replace('?SmallPath=111&PAGEList='+this.PageNumber.value);return false">
+	<div class="PageNumbers">
+		<span>1</span><a href="?SmallPath=111&PAGEList=2">2</a><a href="?SmallPath=111&PAGEList=3">3</a><a href="?SmallPath=111&PAGEList=4">4</a><a href="?SmallPath=111&PAGEList=5">5</a><a href="?SmallPath=111&PAGEList=6">6</a><a href="?SmallPath=111&PAGEList=7">7</a><a href="?SmallPath=111&PAGEList=8">8</a><a href="?SmallPath=111&PAGEList=9">9</a><a href="?SmallPath=111&PAGEList=2" title="下一页">&gt;</a><a href="?SmallPath=111&PAGEList=18" title="最后一页">&gt;|</a>
+	</div>
+	<div class="PageInfo">
+		<span>172</span>记录　每页<span>10</span>条<input type="text" size=3 name="PageNumber" value="1" /><input type="submit" value="Go" class="bt" />
+	</div>
+</form>
+
+				</div>
+
+			</div>
+		</div>
+		<!--e=left-->
+
+		<!--s=right-->
+				<div id="sidebar">
+			<div class="conBox">
+				<h3>
+					<span class="moreLink"><a href="../User/UserSponsored.asp" class="red">我也要出现在这里</a> | <a href="http://www.dmozdir.org/Commend.asp">更多</a></span>
+					<strong>最新推荐</strong>
+				</h3>
+				<ul class="weblist"><li><div class="img-preview"><a href="http://www.dmozdir.org/SiteInformation/?www.chb01.cn-----7172-----.shtml"><img src="../UploadImage/month-04-28/dsdlu620090428131912.jpg" alt="袋式脉冲除尘器
+Powered by DMOZ中文网站分类目录 DmozDir.org" /></a></div>
+<div class='content'><h4><a href="http://www.chb01.cn" target="_blank">袋式脉冲除尘器</a></h4>
+<p>生产除尘器,除尘配件,除尘骨架,除尘布袋,脉冲电磁阀,控制仪,气缸的企业。</p>
+<address>www.chb01.cn</address>
+</div></li>
+<li><div class="img-preview"><a href="http://www.dmozdir.org/SiteInformation/?www.chuchenhb.com-----11893-----.shtml"><img src="../UploadImage/month-01-15/m4c99420100115121145.jpg" alt="除尘器除尘布袋除尘骨架-宏宇环保
+Powered by DMOZ中文网站分类目录 DmozDir.org" /></a></div>
+<div class='content'><h4><a href="http://www.chuchenhb.com" target="_blank">除尘器除尘布袋除尘骨架-宏宇环保</a></h4>
+<p>除尘器,除尘配件,除尘骨架,除尘布袋,脉冲电磁阀,控制仪,气缸的专业生产企业。</p>
+<address>www.chuchenhb.com</address>
+</div></li>
+</ul>
+			</div>
+			<div class="conBox">
+                                <h3><a href="../jzgd.asp" target="_blank">建站归档</a> | <a href="../zxgd.asp" target="_blank">资讯归档</a></h3>
+<script>
+var mediav_ad_pub = '2KWB36_1975884';
+var mediav_ad_width = '258';
+var mediav_ad_height = '800';
+</script>
+<script type="text/javascript" language="javascript" charset="utf-8"  src="//static.mediav.com/js/mvf_g2.js"></script>
+			</div>
+		</div>
+
+		<!--e=right-->
+
+	</div>
+	<!--s=maincontainer-->
+<script>document.getElementById("sidebar").style.height=document.getElementById("mainInner").offsetHeight+"px";</script>
+
+	<!--s=footer--><div id="footer">
+		<div class="footnav">
+			<ul>
+				<li><a href="http://www.dmozdir.org/About/">关于我们</a></li>
+				<li><a href="http://www.dmozdir.org/User/UserHelp.asp">帮助中心</a></li>
+				<li><a href="http://www.dmozdir.org/User/UserSponsored.asp">广告赞助</a></li>
+				<li><a href="http://www.dmozdir.org/User/UserPublish.asp?Action=Add">提交网站</a></li>
+				<li><a href="http://www.dmozdir.org/New.asp">最新加入</a></li>
+				<li><a href="http://www.dmozdir.org/Commend.asp">最新推荐</a></li>
+				<li><a href="javascript:;" target="_self" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.dmozdir.org');return false;">设为首页</a></li>
+				<li><a href="Javascript:;" _fcksavedurl="Javascript:;" onclick='fAddFavorite("DMOZ中文网站分类目录","http://www.dmozdir.org")'>收藏本站</a></li>
+			</ul>
+		</div></div>
+<p align="center">&copy; 2009  <span><a href="http://www.dmozdir.org"><strong>DmozDir</strong></a></span> 冀ICP备08100951号 <a href="http://www.dmozdir.org/tjshoulu.html" target="_blank"><font color="#ff0000"><b>DMOZ目录快速登录入口</b></font></a>
+		<p class="red" align="center"><span>网站免费登录，新收录网站首页显示，所有排名全自动实时刷更新，网站推广的最佳选择就在<strong>DMOZ中文网站分类目录</strong></span></p>
+</div>
+<span style=display:none>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17e3ebb4cde1f3be101d65b0fe34af33";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</span>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+</body>
+</html>
